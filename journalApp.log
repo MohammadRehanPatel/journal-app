@@ -1,0 +1,3 @@
+18:14:16.606 [http-nio-8081-exec-9] INFO  o.s.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 408 ms
+18:14:39.482 [http-nio-8081-exec-2] INFO  com.ja.journalApp.aop.JournalAspect - Request to User com.ja.journalApp.service.UserService.findUserByUserName(String) started at Sun Sep 22 18:14:39 IST 2024
+18:14:39.484 [http-nio-8081-exec-2] INFO  com.ja.journalApp.aop.JournalAspect - Request to User com.ja.journalApp.service.UserService.findUserByUserName(String) ended at Sun Sep 22 18:14:39 IST 2024
